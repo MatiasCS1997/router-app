@@ -6,14 +6,14 @@ const Navbar = () => {
       <nav class="navbar navbar-default" role="navigation">
         <img
           className="icon1"
-          src="https://cdn-icons-png.flaticon.com/512/8244/8244509.png"
+          src="https://cdn.icon-icons.com/icons2/1603/PNG/512/real-setate-house-home-apartment_108558.png"
           alt=""
         />
         <Link to="/" className="navbar-brand text-uppercase ">
           Home
         </Link>
         <img
-          src="https://cdn-icons-png.flaticon.com/512/3158/3158480.png"
+          src="https://cdn-icons-png.flaticon.com/512/1982/1982431.png"
           alt=""
           className="icon1"
         />
